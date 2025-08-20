@@ -1,2 +1,3 @@
-# account
-to switch
+{
+driver.windows().navigate();
+}
